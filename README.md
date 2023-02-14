@@ -1,1 +1,9 @@
-# customer-analytics
+## Telecommunication Customer Churn
+**Business Understanding:** Typical problems faced by organizations in the telecommunication srctor include but not limited to the following:
+1. High customer churn rate: A telecommunications company is experiencing a high rate of customer churn and needs to identify the factors that are contributing to this problem.
+2. Poor customer service: A telecommunications company is receiving negative feedback from customers about the quality of customer service, and needs to identify the root causes of the problem and find ways to improve customer satisfaction.
+3. Inefficient network performance: A telecommunications company's network is underperforming, resulting in dropped calls and slow data speeds for customers. The company needs to identify the sources of network problems and implement solutions to improve performance.
+4. Inability to attract new customers: A telecommunications company is struggling to attract new customers, despite investing heavily in marketing and advertising. The company needs to identify the reasons for this problem and develop a more effective strategy to attract new customers.
+5. Difficulty retaining high-value customers: A telecommunications company has identified a segment of high-value customers who are at risk of churning, and needs to find ways to improve retention rates for this group.
+6. Inability to compete with other providers: A telecommunications company is losing market share to competitors and needs to identify ways to improve its products and services to better compete in the marketplace.
+7. Poor employee satisfaction and retention: A telecommunications company is experiencing high rates of employee turnover and needs to identify the root causes of this problem and develop strategies to improve employee satisfaction and retention.
