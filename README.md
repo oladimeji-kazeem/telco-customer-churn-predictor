@@ -16,3 +16,53 @@
 - **Predictive Modelling:** This involves training the selected machine learning models on the training dataset and testing their performance on the testing dataset.
 - **Model Evaluation:** This involves evaluating the performance of the models using metrics such as accuracy, precision, recall, and F1 score.
 - **Model Deployment:** This involves deploying the best performing model for use in predicting customer churn.
+
+## Installation
+
+To use customer-analytics Predictor, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/oladimeji-kazeem/customer-analytics.git
+    cd customer-analytics
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the predictor:
+
+    ```bash
+    python predict.py
+    ```
+
+## Usage
+
+1. Ensure you have the necessary dependencies installed.
+
+2. Prepare your input data or use the provided sample data.
+
+3. Run the prediction script:
+
+    ```bash
+    python predict.py --input your_data.csv
+    ```
+
+4. View the predicted outcomes along with confidence scores.
+
+## Contributing
+
+Contributions to UFC Fight Predictor are welcome! If you find a bug, have a feature request, or want to contribute to the project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch and submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
